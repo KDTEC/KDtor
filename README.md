@@ -1,5 +1,5 @@
 # KDtor
-## My customizable text editor using TKinter
+## My customizable text editor made using TKinter
 ### U can easily customize the background and the foreground color
 ### U can also change the Font style, font size and also the text alignment
 
